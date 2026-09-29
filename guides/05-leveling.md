@@ -40,6 +40,12 @@ Retail was different: characters started at level 1, promoted at about level 10,
 - **Travel by runegate.** Every runegate is always open. At the edge of each large zone (macrozone), **Zone Teleport Portals** connect you to the next one. Look for the **yellow dot** (a Portal Guardian NPC) on the minimap.
 - **Dropship.** Every character has this ability. It teleports you from a safehold to a random macrozone, which is handy for finding new camps quickly. Be ready for trouble when you arrive.
 
+### How to find a zone for your level
+1. **Open the map.** It shows the level range for each zone, so find one that matches your level.
+2. **Travel there.** Use a runegate, the Zone Teleport Portals at the edge of each large zone, or Dropship.
+3. **Kill the mobs** in that zone.
+4. **Check the map again as you level.** When the mobs start to con light blue, find the next zone up and move on.
+
 ### 4. Levels 71–80: PvP progression
 - **You can't get experience from monsters past level 70.** You have to fight players.
 - **Mine commanders** give a limited amount of PvP experience. Going to mine fights is a reliable way to progress, and you also get the 1M-value Glass gift if you're alive and nearby when the mine is claimed.
