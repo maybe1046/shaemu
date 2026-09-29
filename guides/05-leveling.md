@@ -46,6 +46,37 @@ Retail was different: characters started at level 1, promoted at about level 10,
 3. **Kill the mobs** in that zone.
 4. **Check the map again as you level.** When the mobs start to con light blue, find the next zone up and move on.
 
+### Zones by level
+
+> **Source:** the [Morloch Wiki](https://morloch.shadowbaneemulator.com/index.php/Leveling), which documents the MagicBane emulator. Lakebane is built on that emulator, but it may have changed zones or mob levels, so **⚠ verify** on your in-game map. I collected these from search results because the wiki pages themselves couldn't be opened, so a few ranges could be slightly off. Zones overlap, so pick whichever fits your level best.
+
+| Levels | Zone | Where / theme | Notes |
+|--------|------|---------------|-------|
+| 1–10 | **Vales of Hendowar** | Dalgoth, forest | Starter zone. You'll probably skip it on Lakebane, since you start at 10 |
+| 10–35 | **Newbie Isle (Uthgaard)** | Starter island | On MagicBane, new characters start here and are **teleported off automatically at level 35**. No PvP except in the central Grimstaark Peaks, where factions fight over Outposts. Low-level camps include spiders, ice walkers, huldrings and white wolves. **⚠ verify** whether Lakebane uses it |
+| 20–35 | **Holloch Forest** | Vorringia, forest | |
+| 20–35 | **Fellgrim Forest** | Vorringia, orcs | |
+| 20–35 | **Aurrochs Skrae / Doomhorn Skrae** | Minotaur lands | |
+| 25–40 | **Kharsoom** | Desert | The centre of the zone is a level 60–75 area. Don't wander into it |
+| 25–40 | **Aedroch Highlands** | | |
+| 25–40 | **Greensward Pyre** | Undead | Has a quartermaster, plus Vampire and Necromancer trainers |
+| 30–50 | **Ashfell Plain** | | |
+| 30–50 | **Hregend Wildlands** | | |
+| 30–50 | **The Black Bog** | | |
+| 30–50 | **The Blood Sands** | | |
+| 35–60 | **Grimscairne** | Vorringia, undead | One of four zones with elite gear from a quartermaster. Has Prelate and Priest trainers |
+| 35–60 | **Tainted Swamp** | Chaos | |
+| 40–60 | **Aeran Belendor** | | |
+| 40–60 | **Southern Battleground** | Maelstrom island, Nephilim and Chaos | |
+| 40–60 | **Bone Marches** | Oblivion island, undead (Lich-Queen Ithriana) | |
+| 50–70 | **Plain of Ashes** | Oblivion | End-game zone |
+| 50–70 | **Pandemonium** | Maelstrom island, Chaos | End-game zone |
+| 60–75 | **Kharsoom (centre)** | Desert | The high-level area in the middle of Kharsoom |
+
+**Suggested path on Lakebane:** Holloch Forest or Fellgrim Forest (20s) → Greensward Pyre or Aedroch Highlands (late 20s–30s) → Ashfell Plain or Black Bog (30s–40s) → Grimscairne or Bone Marches (40s–50s) → Plain of Ashes or Pandemonium (50–70). For levels 10–20, use whichever low-level zone your in-game map shows. It's the only range this list doesn't cover well.
+
+**⚠ verify:** I couldn't find which continent some of these zones are on.
+
 ### 4. Levels 71–80: PvP progression
 - **You can't get experience from monsters past level 70.** You have to fight players.
 - **Mine commanders** give a limited amount of PvP experience. Going to mine fights is a reliable way to progress, and you also get the 1M-value Glass gift if you're alive and nearby when the mine is claimed.
