@@ -22,6 +22,7 @@ Guides, tips and reference notes for playing **Shadowbane** on the modern emulat
 | 8 | [Economy & Crafting](guides/08-economy-crafting.md) | Gold, resources, rolling gear, gems, and making money |
 | 9 | [Lakebane Server Notes](guides/09-lakebane-server-notes.md) | Changes on Lakebane compared with retail |
 | 10 | [Glossary](guides/10-glossary.md) | Community slang and abbreviations |
+| 11 | [Steam Guides & Community Tips](guides/11-steam-guides.md) | The best Steam guides for Shadowbane and Resurgence, a Fury build, and tips from Steam discussions |
 
 ## Useful links
 
