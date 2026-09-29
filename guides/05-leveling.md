@@ -1,26 +1,64 @@
 # 5. Leveling
 
-## Overview
+This guide follows the **Lakebane Server 2** rules, from the [patch notes](https://lakebane.com/patch_notes.html). Levelling there is much faster than on retail. Always check the latest patch notes, since numbers change.
 
-- You level by killing monsters (mobs). Fighting in a group is much faster than soloing.
-- **You get your promotion at about level 10** **⚠ verify**. Aim to reach it quickly.
-- The maximum level (level cap) is set by each server. It was 75 on late retail. **⚠ verify** the cap on Lakebane and Resurgence.
+## Lakebane at a glance
 
-## Leveling path
+| Rule | Lakebane |
+|------|----------|
+| Starting level | **Level 10**, ready to promote right away |
+| Starter kit | An "outstanding flimsy" **Weapon of Ruin** |
+| After you promote | A **Conc pot** (concentration potion) and **1,000 gold** to spend on training |
+| Levels 11–20 | **Gold is added to your inventory every time you level up** |
+| Experience scaling | **Adjusts for party size**. Rates are higher than retail and easier to predict |
+| Mob con penalty | **No experience penalty for mobs that aren't blue** |
+| Max level | **80** |
+| Levels 1–70 | Normal experience from monsters (PvE) |
+| Levels 71–80 | **Only from PvP**, including limited PvP experience from **mine commanders**. Each level gives **1 ability (stat) point and no skill points** |
+| Travel | **All runegates are always active**. You don't need the Traveler discipline |
 
-| Levels | What to do |
-|--------|------------|
-| **1–10** | Kill easy mobs near the starting area. Learn your powers, save gold, and get promoted |
-| **10–30** | Group with other players or your guild at monster camps. Start collecting better gear |
-| **30–50** | Farm mid-level camps. You'll start meeting other players in PvP, so travel in groups |
-| **50–cap** | Farm high-level camps and bosses in organized groups. Rare runes and loot drop here |
+Retail was different: characters started at level 1, promoted at about level 10, and the cap was 75.
+
+## Step by step
+
+### 1. Create your character and promote immediately (level 10)
+1. Plan the build in the [Character Builder](https://lakebane.com/calculator/) **before** you log in. You promote as soon as you arrive, so you need to know your promotion class already.
+2. Go to the promotion trainer and pick your class.
+3. Collect the **Conc pot and 1,000 gold** and spend the gold at trainers right away. Put it into your main weapon or casting skill first.
+4. Equip the **Weapon of Ruin** if your class can use it.
+
+### 2. Levels 10–20: build up your gold
+- You get **gold every time you level** in this range, so level quickly and **bank it**. Gold in your bags can be looted if you die.
+- Spend it on training and an armor upgrade before level 20.
+- You can solo or duo easy camps here. Group up if anyone is around.
+
+### 3. Levels 20–70: camp grinding
+- **Find a mob camp and farm it.** Most of your experience comes from monster camps in adventure zones.
+- **Keep fighting mobs of your level or higher.** Lakebane has no experience penalty for mobs that aren't blue, so fighting tougher monsters is worth it if your group can handle them.
+- **Move on when the camp turns light blue.** On emulators, the usual rule is to change microzones once most mobs con light blue. The best experience comes from dark blue mobs and anything tougher. **⚠ verify** how the con colors behave on Lakebane.
+- **Group up.** Experience scales with party size. Groups also kill faster, stay safer, and let a healer keep everyone topped up.
+- **Travel by runegate.** Every runegate is always open. At the edge of each large zone (macrozone), **Zone Teleport Portals** connect you to the next one. Look for the **yellow dot** (a Portal Guardian NPC) on the minimap.
+- **Dropship.** Every character has this ability. It teleports you from a safehold to a random macrozone, which is handy for finding new camps quickly. Be ready for trouble when you arrive.
+
+### 4. Levels 71–80: PvP progression
+- **You can't get experience from monsters past level 70.** You have to fight players.
+- **Mine commanders** give a limited amount of PvP experience. Going to mine fights is a reliable way to progress, and you also get the 1M-value Glass gift if you're alive and nearby when the mine is claimed.
+- Each of these levels gives **1 ability (stat) point and no skill points**. Plan in the calculator where those last 10 stat points will go.
+- Go with your guild. Levelling alone through PvP is slow and risky.
 
 ## Tips
 
-1. **Group up.** Groups level faster and are much safer. A healer makes every group better.
-2. **Rest between fights.** Sit to regenerate health and mana faster.
-3. **Watch who comes near your group.** Popular leveling spots are also favorite places for enemy players to hunt.
-4. **Sell your loot regularly.** A full bag is both a risk and a waste.
-5. **Use runegates and recall to travel quickly.** Walking across the map is slow and dangerous.
-6. **Upgrade your gear every 10 or so levels.** Cheap gear bought or made at the right level is better than no upgrade at all.
-7. **Ask your guild to power-level you.** Many guilds will help new members level up fast.
+1. **Rest between pulls.** Sitting restores health and mana much faster.
+2. **Sell and bank often,** especially during the gold-per-level stretch from 11 to 20.
+3. **Watch for other players.** Popular camps are where enemy players go hunting, and Dropship can land you right next to them.
+4. **Stay near a safehold** when you arrive with Dropship, so you know where to retreat.
+5. **Stack your resources.** Resources now stack automatically, so your bags hold more loot between trips to the bank.
+
+## Still to confirm
+
+- [ ] Exact gold amounts per level for levels 11–20
+- [ ] Recommended camps and zones by level range on Lakebane
+- [ ] Whether you lose experience when you die
+- [ ] Exactly how much PvP experience mine commanders give, and any cap
+
+Sources: [Lakebane patch notes](https://lakebane.com/patch_notes.html), [Morloch Wiki: Leveling](https://morloch.shadowbaneemulator.com/index.php/Leveling) (the general emulator rule about changing zones when mobs con light blue).

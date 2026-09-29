@@ -16,7 +16,7 @@ Guides, tips and reference notes for playing **Shadowbane** on the modern emulat
 | 2 | [Classes](guides/02-classes.md) | 4 base classes, 22 promotion classes, and their roles |
 | 3 | [Disciplines](guides/03-disciplines.md) | Discipline runes, how they work, and popular picks |
 | 4 | [Character Building](guides/04-character-building.md) | Stats, runes, skills, training, and planning a build |
-| 5 | [Leveling](guides/05-leveling.md) | Getting from 1 to cap efficiently and safely |
+| 5 | [Leveling](guides/05-leveling.md) | Lakebane levelling from 10 to 80: gold per level, experience rules, and PvP levels 71–80 |
 | 6 | [PvP & Survival](guides/06-pvp.md) | Death and looting, group PvP, scouting, duels, and habits that keep you alive |
 | 7 | [Guilds, Cities & Sieges](guides/07-guilds-cities-sieges.md) | Trees of Life, nations, banes, sieges, and mines |
 | 8 | [Economy & Crafting](guides/08-economy-crafting.md) | Gold, resources, rolling gear, gems, and making money |

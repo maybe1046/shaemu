@@ -6,6 +6,23 @@ Always check the latest [patch notes](https://lakebane.com/patch_notes.html). Th
 
 ## Known changes compared with retail
 
+### Levelling and travel
+- New characters **start at level 10, ready to promote**, with a Weapon of Ruin. After you promote you get a Conc pot and 1,000 gold to spend on training.
+- **Gold is added to your inventory each time you level** from 11 to 20.
+- Experience **scales with party size**, and there's **no penalty for mobs that aren't blue**.
+- The **max level is 80**. Levels 71–80 only come from **PvP**, including limited experience from mine commanders. Each gives **1 ability (stat) point and no skill points**.
+- **All runegates are always active**, with no Traveler discipline needed. **Zone Teleport Portals** at each large zone's edge are marked as a yellow dot on the minimap.
+- **Dropship** is an ability every character has. It teleports you from a safehold to a random large zone.
+- See [Leveling](05-leveling.md) for the full walkthrough.
+
+### Races
+- **Saetor** is a race added on Lakebane, so there are more than the retail 12. Saetor are goat-men descended from the Minotaurs. They are more agile and cunning than their brutish ancestors, and use their horns to parry. They get **+10% movement speed** but **can't equip boots**. All four base classes are open to them. Details: [lakebane.com/saetor.html](https://lakebane.com/saetor.html)
+
+### Quality of life
+- Resources stack automatically.
+- A **Junk** ability lets you destroy equipment.
+- Changing stance no longer depends on whether you're in combat. **⚠ verify** the exact change.
+
 ### Gear
 - **Elite equipment:** stats were updated so most builds can use it.
 - **Glorious weapons:** faster-attacking versions of the top weapons. They require **120 skill** to equip.
@@ -25,7 +42,7 @@ Always check the latest [patch notes](https://lakebane.com/patch_notes.html). Th
 
 ## Still to document (help wanted)
 
-- [ ] Level cap and experience rate
+- [x] Level cap (80) and how experience works
 - [ ] Multiboxing and alt rules
 - [ ] Death and loot rules
 - [ ] Bane and siege scheduling rules

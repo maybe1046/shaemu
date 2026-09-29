@@ -2,6 +2,8 @@
 
 Shadowbane has **12 playable races**. Your race sets your starting stats, your stat caps, some resistances and special abilities, and **which classes you can take**.
 
+> **Lakebane adds a 13th race, the Saetor.** They have +10% movement speed, can't wear boots, and can take any base class. See [Lakebane Server Notes](09-lakebane-server-notes.md#races).
+
 > Exact stat numbers, caps, and class restrictions differ between patches and servers. Check the [Lakebane Character Builder](https://lakebane.com/calculator/) before you create a character. **⚠ verify**
 
 ## Overview
