@@ -21,7 +21,7 @@ Your promotion class sets your main powers, the weapons and armor you can use, a
 | **Sentinel** | Fighter / Healer | Tank and support | Defensive holy class with buffs and protection |
 | **Ranger** | Fighter / Rogue | Ranged damage | Archer who tracks targets |
 | **Huntress** | Fighter / Rogue | Melee or ranged damage | Female only. Fast hunter with animal-themed powers |
-| **Fury** | Rogue / Fighter **⚠ verify** | Melee damage | Female only. Aggressive damage dealer with nature and rage powers |
+| **Fury** | Mage | Caster damage and PvP | Female only. Storm and ice magic, daggers, and **permanent flight**. See the [Fury build](12-build-solo-pvp-fury.md) |
 | **Assassin** | Rogue | Stealth burst damage | Kills from stealth, uses poisons, and gets critical hits |
 | **Thief** | Rogue | Stealth and utility | Steals, sets traps, and moves around fast |
 | **Scout** | Rogue | Reconnaissance and utility | Tracks players, moves quickly, and finds enemies for the group |
@@ -49,4 +49,4 @@ Your promotion class sets your main powers, the weapons and armor you can use, a
 
 - **Plan your promotion before you create the character.** Some promotions need a specific race, gender, or base class.
 - **Healers:** Put points into constitution too. Enemy groups kill healers first.
-- **Hybrids** (Crusader, Nightstalker, Fury) are flexible, but only if you plan your stats carefully. Spreading points too thin makes a character weak at everything.
+- **Hybrids** (Crusader, Nightstalker) are flexible, but only if you plan your stats carefully. Spreading points too thin makes a character weak at everything.

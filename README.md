@@ -23,6 +23,7 @@ Guides, tips and reference notes for playing **Shadowbane** on the modern emulat
 | 9 | [Lakebane Server Notes](guides/09-lakebane-server-notes.md) | Changes on Lakebane compared with retail |
 | 10 | [Glossary](guides/10-glossary.md) | Community slang and abbreviations |
 | 11 | [Steam Guides & Community Tips](guides/11-steam-guides.md) | The best Steam guides for Shadowbane and Resurgence, a Fury build, and tips from Steam discussions |
+| 12 | [Build: Solo PvP Fury](guides/12-build-solo-pvp-fury.md) | A complete Irekei Fury build for new solo PvP players: runes, training, gear, leveling path, and a fight playbook |
 
 ## Useful links
 
